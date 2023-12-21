@@ -1,2 +1,2 @@
-# sentinel
+# Sentinel
 Secret Manager Application
